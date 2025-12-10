@@ -4,7 +4,7 @@
     "username": "dinanto",
     "password": "dinanto",
     "expiresAt": "2025-11-28",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "52d9971b3d1d0cd1",
