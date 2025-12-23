@@ -1,93 +1,41 @@
-[
-  {
-    "id": "d375ca4165ecb85b",
-    "username": "dinanto",
-    "password": "dinanto",
-    "expiresAt": "2025-12-28",
-    "allowOffline": false
+{
+  "showOnDate": "2026-11-06T00:00:00Z",
+  "keys": {
+    "aldi": {
+      "deviceId": "7f5205c57b40300a",
+      "expiryDate": "2025-12-26T23:59:59Z"
+    },
+    "rendi": {
+      "deviceId": "001859c8f4c4c672",
+      "expiryDate": "2026-01-21T23:59:59Z"
+    },
+    "my-master-key": {
+      "deviceId": "ANY",
+      "expiryDate": "2099-12-31T23:59:59Z"
+    },
+    "an-expired-key": {
+      "deviceId": "1111111111111111",
+      "expiryDate": "2020-01-01T23:59:59Z"
+    }
   },
-  {
-    "id": "52d9971b3d1d0cd1",
-    "username": "test",
-    "password": "test",
-    "expiresAt": "2025-10-28",
-    "allowOffline": false
+  "update_dialog": {
+    "topText": "Update Available",
+    "mainQuestion": "A new version is ready!",
+    "buttonText": "Download Now",
+    "buttonClickUrl": "https://t.me/+6BPuxAEhOqpiYmY1"
   },
-  {
-    "id": "61889c57df59ff5d",
-    "username": "gue",
-    "password": "gue",
-    "expiresAt": "2025-12-30",
-    "allowOffline": true
+  "login_dialog": {
+    "topText": "Dibutuhkan Kode Akses!",
+    "buttonText": "Login",
+    "adminButtonText": "Admin",
+    "adminButtonUrl": "https://t.me/+6BPuxAEhOqpiYmY1"
   },
-  {
-    "id": "46eade0aa52eafda",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-08-12",
-    "allowOffline": false
-  },
-  {
-    "id": "6a779c48402c9c5d",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-09-01",
-    "allowOffline": false
-  },
-  {
-    "id": "433995e0bd4b2ca8",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-09-01",
-    "allowOffline": false
-  },
-  {
-    "id": "73e4aee5848531f7",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-09-02",
-    "allowOffline": false
-  },
-  {
-    "id": "d558f8217d65e58c",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-09-10",
-    "allowOffline": false
-  },
-  {
-    "id": "294a9cfa377baa70",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "294a9cfa377baa70",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "294a9cfa377baa70",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-07-30",
-    "allowOffline": false
-  },
-  {
-    "id": "294a9cfa377baa70",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-12-31",
-    "allowOffline": false
-  },
-  {
-    "id": "294a9cfa377baa70",
-    "username": "kosong",
-    "password": "kosong",
-    "expiresAt": "2025-12-31",
-    "allowOffline": false
+  "common_style": {
+    "topIconAsset": "icon.png",
+    "topIconSpin": true,
+    "animateGradient": true,
+    "buttonGradientStartColor": "#FFDAB9",
+    "buttonGradientEndColor": "#E6E6FA",
+    "buttonTextColor": "#333333"
   }
-]
+}
